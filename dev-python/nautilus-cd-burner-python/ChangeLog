@@ -1,0 +1,23 @@
+# ChangeLog for dev-python/nautilus-cd-burner-python
+# Copyright 1999-2009 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/dev-python/nautilus-cd-burner-python/ChangeLog,v 1.3 2009/01/08 23:43:01 eva Exp $
+
+*nautilus-cd-burner-python-2.24.1 (08 Jan 2009)
+
+  08 Jan 2009; Gilles Dartiguelongue <eva@gentoo.org>
+  +nautilus-cd-burner-python-2.24.1.ebuild:
+  Bump to 2.24.1.
+
+*nautilus-cd-burner-python-2.24.0 (19 Oct 2008)
+
+  19 Oct 2008; Gilles Dartiguelongue <eva@gentoo.org>
+  +nautilus-cd-burner-python-2.24.0.ebuild:
+  New version for GNOME 2.24.
+
+*nautilus-cd-burner-python-2.22.0 (14 Sep 2008)
+
+  14 Sep 2008; Arun Raghavan <ford_prefect@gentoo.org> +metadata.xml,
+  +nautilus-cd-burner-python-2.22.0.ebuild:
+  Initial import of split gnome-python-desktop. This package installs
+  bindings for Nautilus CD/DVD burning.
+

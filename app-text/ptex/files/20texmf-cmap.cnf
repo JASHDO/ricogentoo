@@ -1,0 +1,3 @@
+
+CMAPINPUTS = .;/usr/share/ghostscript//;/opt/Acrobat5/Resource//;/opt/Acrobat7/Resource//;/usr/share/xpdf//
+

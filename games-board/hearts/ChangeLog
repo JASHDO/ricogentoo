@@ -1,0 +1,18 @@
+# ChangeLog for games-board/hearts
+# Copyright 1999-2009 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/games-board/hearts/ChangeLog,v 1.4 2009/01/19 14:54:44 tupone Exp $
+
+  19 Jan 2009; Alfredo Tupone <tupone@gentoo.org>
+  +files/hearts-1.98-gcc43.patch, hearts-1.98.ebuild:
+  Fix gcc-4.3 bug #251126 by flameeyes@gentoo.org
+
+  05 Jan 2009; Michael Sterrett <mr_bones_@gentoo.org> hearts-1.98.ebuild:
+  make PATCHES an array
+
+  08 Feb 2007; Chris Gianelloni <wolf31o2@gentoo.org> ChangeLog:
+  Regenerate digest in Manifest2 format.
+
+*hearts-1.98 (05 Aug 2005)
+
+  05 Aug 2005; Mike Frysinger <vapier@gentoo.org> :
+  Initial import.  Ebuild submitted by Yannick Heneault #99474.

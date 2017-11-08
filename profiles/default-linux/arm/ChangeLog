@@ -1,0 +1,44 @@
+# ChangeLog for Gentoo/x86 profile directory
+# Copyright 1999-2009 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/profiles/default-linux/arm/ChangeLog,v 1.21 2009/01/19 11:13:02 armin76 Exp $
+
+  19 Jan 2009; Raúl Porcel <armin76@gentoo.org> use.mask:
+  Some reordering, and use.mask tracker, fuse, gphoto2 and laptop
+
+  16 Jan 2009; Raúl Porcel <armin76@gentoo.org> use.mask:
+  Use.mask chicken, clisp, R, octave
+
+  15 Jan 2009; Raúl Porcel <armin76@gentoo.org> package.use.mask, use.mask:
+  Move dvb and mythtv p.use.mask to use.mask
+
+  01 Jan 2009; Raúl Porcel <armin76@gentoo.org> use.mask:
+  Add openexr to use.mask as it fails to work
+
+  05 Nov 2008; Jim Ramsay <lack@gentoo.org> package.use.mask:
+  app-admin/gkrellm may pull in net-libs/libntlm, which is not keyworded
+
+  22 Aug 2008; Mart Raudsepp <leio@gentoo.org> +package.mask:
+  Mask GNOME-2.22 here in preparation of removing the global one
+
+  10 Apr 2008; Donnie Berkholz <dberkholz@gentoo.org>; use.mask:
+  changing around video_cards_via masking by unmasking only for available
+  arches instead of masking on unavailable.
+
+  02 Apr 2008; Mart Raudsepp <leio@gentoo.org> package.use.mask:
+  USE mask dvb and mythtv on gst-plugins-meta - dependencies not keyworded
+
+  02 Apr 2008; Mart Raudsepp <leio@gentoo.org> use.mask:
+  Mask networkmanager USE flag - no version of it keyworded
+
+  01 Apr 2008; Daniel Black <dragonheart@gentoo.org> use.mask:
+  mask ssh2 as net-libs/libssh2 does not have keywords yet
+
+  13 Jun 2007; Samuli Suominen <drac@gentoo.org> use.mask, 
+  package.use.mask:
+  Add required masks to support thunar-thumbnailers.
+
+  09 Jun 2007; Rémi Cardona <remi@gentoo.org> +package.mask:
+  Move Gnome 2.18 mask to arm subprofile
+
+  28 Mar 2007; Steve Dibb <beandog@gentoo.org> +package.use.mask:
+  Add package.use.mask, ChangeLog, mask mp2 on mplayer.

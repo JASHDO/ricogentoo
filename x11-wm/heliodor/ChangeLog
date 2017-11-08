@@ -1,0 +1,22 @@
+# ChangeLog for x11-wm/heliodor
+# Copyright 1999-2007 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/x11-wm/heliodor/ChangeLog,v 1.4 2007/05/15 20:49:37 bangert Exp $
+
+  15 May 2007; Thilo Bangert <bangert@gentoo.org> metadata.xml:
+  add <herd>no-herd</herd>
+
+*heliodor-0.2.1 (21 Mar 2007)
+
+  21 Mar 2007; Joshua Jackson <tsunam@gentoo.org> +heliodor-0.2.1.ebuild:
+  adding beryl-0.2.1 to the tree
+
+*heliodor-0.1.4 (28 Dec 2006)
+
+  28 Dec 2006; Joshua Jackson <tsunam@gentoo.org> +heliodor-0.1.4.ebuild:
+  Version bump for #159203
+
+*heliodor-0.1.3 (19 Dec 2006)
+
+  19 Dec 2006; Joshua Jackson <tsunam@gentoo.org> +heliodor-0.1.3.ebuild:
+  Initial import of the gnome decorator for beryl
+

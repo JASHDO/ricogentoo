@@ -1,0 +1,24 @@
+# ChangeLog for dev-lang/sunstudioexpress
+# Copyright 1999-2008 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/dev-lang/sunstudioexpress/ChangeLog,v 1.4 2008/11/16 17:38:22 flameeyes Exp $
+
+  16 Nov 2008; Diego E. Pettenò <flameeyes@gentoo.org>
+  sunstudioexpress-2008.11.ebuild:
+  Quote variable.
+
+*sunstudioexpress-2008.11 (16 Nov 2008)
+
+  16 Nov 2008; Diego E. Pettenò <flameeyes@gentoo.org>
+  +sunstudioexpress-2008.11.ebuild:
+  Version bump to 2008.11 release.
+
+  06 Oct 2008; Diego Pettenò <flameeyes@gentoo.org>
+  sunstudioexpress-2008.07.24.ebuild:
+  Restrict strip since it's not built from sources.
+
+*sunstudioexpress-2008.07.24 (30 Sep 2008)
+
+  30 Sep 2008; Diego Pettenò <flameeyes@gentoo.org> +metadata.xml,
+  +sunstudioexpress-2008.07.24.ebuild:
+  Initial import of the Sun Studio Express compiler suite.
+

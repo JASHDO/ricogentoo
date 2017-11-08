@@ -1,0 +1,15 @@
+# Copyright 1999-2007 Gentoo Foundation
+# Distributed under the terms of the GNU General Public License v2
+# $Header: /var/cvsroot/gentoo-x86/profiles/default-linux/sparc/package.mask,v 1.7 2008/11/21 20:20:46 fmccor Exp $
+
+# Alexis Ballier <aballier@gentoo.org> (09 Sep 2008)
+# The big TeX Live 2008 mask. Needs some testing and keywording love.
+# Updated 06 Oct 2008 for bug #237202 and bug #239472
+##
+# Ferris McCormick <fmccor@gentoo.org> (18 Nov 2008)
+# Unmask texlive-2008.
+
+# Gustavo Zacarias <gustavoz@gentoo.org>
+# Broken, no way to test it, see bug #155887 and bug #186958
+app-accessibility/brltty
+

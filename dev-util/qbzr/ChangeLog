@@ -1,0 +1,26 @@
+# ChangeLog for dev-util/qbzr
+# Copyright 1999-2009 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/dev-util/qbzr/ChangeLog,v 1.4 2009/01/10 17:04:26 pva Exp $
+
+*qbzr-0.9.6 (10 Jan 2009)
+
+  10 Jan 2009; Peter Volkov <pva@gentoo.org> +qbzr-0.9.6.ebuild:
+  Version bump.
+
+*qbzr-0.9.5 (03 Nov 2008)
+
+  03 Nov 2008; Peter Volkov <pva@gentoo.org> -qbzr-0.9.3.ebuild,
+  +qbzr-0.9.5.ebuild:
+  Version bump, removed old.
+
+*qbzr-0.9.4 (19 Oct 2008)
+
+  19 Oct 2008; Peter Volkov <pva@gentoo.org> +qbzr-0.9.4.ebuild:
+  Version bump.
+
+*qbzr-0.9.3 (03 Oct 2008)
+
+  03 Oct 2008; Markus Ullmann <jokey@gentoo.org> +metadata.xml,
+  +qbzr-0.9.3.ebuild:
+  Initial import for bug #234960
+

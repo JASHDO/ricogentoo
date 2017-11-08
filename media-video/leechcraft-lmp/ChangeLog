@@ -1,0 +1,35 @@
+# ChangeLog for media-video/leechcraft-lmp
+# Copyright 1999-2011 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/media-video/leechcraft-lmp/ChangeLog,v 1.5 2011/12/31 12:07:33 maksbotan Exp $
+
+*leechcraft-lmp-0.4.97 (31 Dec 2011)
+
+  31 Dec 2011; Maxim Koltsov <maksbotan@gentoo.org>
+  -leechcraft-lmp-0.4.90.ebuild, +leechcraft-lmp-0.4.97.ebuild:
+  Bump to 0.4.97, remove 0.4.80 and 0.4.90
+
+*leechcraft-lmp-0.4.96-r1 (16 Dec 2011)
+
+  16 Dec 2011; Maxim Koltsov <maksbotan@gentoo.org>
+  -leechcraft-lmp-0.4.96.ebuild, +leechcraft-lmp-0.4.96-r1.ebuild,
+  leechcraft-lmp-9999.ebuild:
+  Bump to eapi4, fix bug 394935
+
+*leechcraft-lmp-0.4.96 (15 Dec 2011)
+
+  15 Dec 2011; Maxim Koltsov <maksbotan@gentoo.org>
+  +leechcraft-lmp-0.4.96.ebuild:
+  Bump media-video/leechcraft-lmp to 0.4.96, thanks to 0xd34df00d
+
+*leechcraft-lmp-0.4.90 (14 Sep 2011)
+
+  14 Sep 2011; Maxim Koltsov <maksbotan@gentoo.org>
+  +leechcraft-lmp-0.4.90.ebuild:
+  Bump media-video/leechcraft-lmp to 0.4.90, thanks to 0xd34df00d
+
+*leechcraft-lmp-9999 (25 Aug 2011)
+
+  25 Aug 2011; Maxim Koltsov <maksbotan@gentoo.org>
+  +leechcraft-lmp-9999.ebuild, +metadata.xml:
+  Copy media-video/leechcraft-lmp from rion-overlay, thanks to 0xd34df00d
+

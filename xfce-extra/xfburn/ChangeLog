@@ -1,0 +1,36 @@
+# ChangeLog for xfce-extra/xfburn
+# Copyright 1999-2008 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/xfce-extra/xfburn/ChangeLog,v 1.7 2008/01/05 11:09:58 drac Exp $
+
+  05 Jan 2008; Samuli Suominen <drac@gentoo.org>
+  xfburn-0.3.0_pre20070824.ebuild:
+  Fix building against >=libburn-0.4.0 wrt bug #203119.
+
+  08 Nov 2007; Luca Barbato <lu_zero@gentoo.org>
+  xfburn-0.3.0_pre20070824.ebuild:
+  Marked ~ppc
+
+  15 Sep 2007; Samuli Suominen <drac@gentoo.org>
+  xfburn-0.3.0_pre20070824.ebuild:
+  Changed SRC_URI to gentoo mirrors.
+
+*xfburn-0.3.0_pre20070824 (24 Aug 2007)
+
+  24 Aug 2007; Samuli Suominen <drac@gentoo.org>
+  +xfburn-0.3.0_pre20070824.ebuild:
+  New development snapshot to support libisofs 0.2.8.
+
+  26 Jun 2007; Samuli Suominen <drac@gentoo.org>
+  xfburn-0.3.0_pre20070616.ebuild:
+  Inform users about incomplete DVD burning support with elog.
+
+  16 Jun 2007; Christoph Mende <angelos@gentoo.org>
+  xfburn-0.3.0_pre20070616.ebuild:
+  Added ~amd64
+
+*xfburn-0.3.0_pre20070616 (16 Jun 2007)
+
+  16 Jun 2007; Samuli Suominen <drac@gentoo.org>
+  +xfburn-0.3.0_pre20070616.ebuild:
+  Initial commit.
+

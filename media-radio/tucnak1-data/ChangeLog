@@ -1,0 +1,14 @@
+# ChangeLog for media-radio/tucnak1-data
+# Copyright 1999-2007 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/media-radio/tucnak1-data/ChangeLog,v 1.3 2007/02/05 00:43:26 flameeyes Exp $
+
+  05 Feb 2007; Diego Pettenò <flameeyes@gentoo.org> ChangeLog:
+  Regenerate digest in Manifest2 format.
+
+  15 Jan 2006; <dang@gentoo.org> tucnak1-data-1.04.ebuild:
+  Marked ~amd64 per bug# 104926
+
+  10 Aug 2005; Robb Romans <killsoft@gentoo.org> ChangeLog:
+  Initial ebuild for tucnak (amateur radio VHF contest logbook) data files.
+  Thanks to Florian Evers for the ebuild.
+

@@ -1,0 +1,25 @@
+# ChangeLog for media-sound/phonon-vlc
+# Copyright 1999-2010 Gentoo Foundation; Distributed under the GPL v2
+# $Header: /var/cvsroot/gentoo-x86/media-sound/phonon-vlc/ChangeLog,v 1.4 2011/01/06 00:32:07 jmbsvicetto Exp $
+
+  04 Dec 2010; Jorge Manuel B. S. Vicetto <jmbsvicetto@gentoo.org>
+  phonon-vlc-0.2.0.ebuild, phonon-vlc-0.3.1.ebuild:
+  Added dep on vlc[dbus] - fixes bug 347714.
+
+  04 Dec 2010; Jorge Manuel B. S. Vicetto <jmbsvicetto@gentoo.org>
+  phonon-vlc-0.2.0.ebuild, phonon-vlc-0.3.1.ebuild:
+  Added ~x86 keywords to phonon-vlc ebuilds. Thanks to Agostino Sarubbo (ago)
+  for testing.
+
+*phonon-vlc-0.3.1 (04 Dec 2010)
+
+  04 Dec 2010; Jorge Manuel B. S. Vicetto <jmbsvicetto@gentoo.org>
+  +phonon-vlc-0.3.1.ebuild:
+  Bumped phonon-vlc to the 0.3.1 release.
+
+*phonon-vlc-0.2.0 (24 Jul 2010)
+
+  24 Jul 2010; Jorge Manuel B. S. Vicetto <jmbsvicetto@gentoo.org>
+  +phonon-vlc-0.2.0.ebuild, +metadata.xml:
+  Initial import of the first phonon vlc backend release (0.2.0).
+
